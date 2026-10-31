@@ -22,8 +22,8 @@ Output
 • Weekend surcharge 
 • Final ticket price 
 """
-
-
+print("MOVIE BOOKING SYSTEM.")
+print("-"*80)
 name = input("Enter a Name = ")
 age = int(input("Enter an Age = "))
 show_type = input("Enter Show Type (Morning or Evening) = ").lower()
