@@ -1,3 +1,7 @@
+"""
+11. Count number of digits in a number.
+"""
+
 digits = int(input("Enter a Digit ="))
 
 count = 0 

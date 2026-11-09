@@ -1,3 +1,8 @@
+"""
+15. Find sum of digits of a number.
+
+"""
+
 n = int(input("Enter a number ="))
 
 sum =0 

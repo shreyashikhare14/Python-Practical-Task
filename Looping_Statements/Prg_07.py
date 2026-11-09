@@ -1,5 +1,5 @@
 """
- Calculate factorial of a number using for loop.
+7. Calculate factorial of a number using for loop.
 
 """
 

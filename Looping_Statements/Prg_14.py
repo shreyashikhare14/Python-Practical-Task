@@ -1,3 +1,7 @@
+"""
+14. Print Fibonacci series up to n terms.
+"""
+
 n = int(input("Enter a number = "))
 
 a =0
