@@ -1,0 +1,10 @@
+"""
+30. Check whether a string is in title case.
+"""
+
+string = input("Enter a String =")
+
+if string.istitle():
+    print("String is in Title Case.")
+else:
+    print("String is not in Title Case.")
